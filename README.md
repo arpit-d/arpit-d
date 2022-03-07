@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpit-d
-- 👀 I’m interested in mobile & web app developement using Flutter
-- 📫 You can reach me on arpitme199@gmail.com
+- 👀 I’m interested in mobile developement using Flutter & web developement using React
+- 📫 You can reach me on arpit27999@gmail.com
 
 <!---
 arpit-d/arpit-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
