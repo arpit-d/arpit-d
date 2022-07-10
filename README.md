@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arpit-d
-- 👀 I’m interested in mobile developement using Flutter & web developement using React
+- 👋 Hi, I’m Arpit Deshpande
+- 👀 I’m interested in roles in mobile developement using Flutter & web developement using React
 - 📫 You can reach me on arpit27999@gmail.com
 
 <!---
