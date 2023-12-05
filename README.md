@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit Deshpande
-- 👀 I’m interested in roles in mobile developement using Flutter & web developement using React
+- 👀 I’m interested in roles in backend developement using Golang, Java
 - 📫 You can reach me on arpit27999@gmail.com
 
 <!---
