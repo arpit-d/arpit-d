@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit Deshpande
 - 👀 I’m interested in roles in backend developement using Golang, Java
-- 📫 You can reach me on arpit27999@gmail.com
+- 📫 You can reach me on arptdshpnd@gmail.com
 
 <!---
 arpit-d/arpit-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
